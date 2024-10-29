@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Plan",
+        "price": 19.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Free Wi-Fi",
+            "Access during staffed hours",
+            "1 free fitness assessment",
+            "10% discount on supplements"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard Plan",
+        "price": 39.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access with basic amenities",
+            "Group fitness classes",
+            "Free Wi-Fi",
+            "2 personal training sessions per month",
+            "Access to nutrition guidance sessions",
+            "1 free guest pass per month",
+            "15% discount on supplements and merchandise"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium Plan",
+        "price": 59.99,
+        "features": [
+            "Access to all gym equipment",
+            "Locker room access with sauna",
+            "Unlimited group fitness classes",
+            "Free Wi-Fi",
+            "5 personal training sessions per month",
+            "Access to swimming pool",
+            "Access to advanced fitness equipment (e.g., resistance bands, kettlebells)",
+            "Monthly body composition analysis",
+            "1 complimentary massage per month",
+            "20% discount on supplements, merchandise, and spa services"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "VIP Plan",
+        "price": 89.99,
+        "features": [
+            "24/7 access to gym facilities",
+            "Private locker room with sauna and steam room",
+            "Unlimited group and individual fitness classes",
+            "Free Wi-Fi and refreshments",
+            "Unlimited personal training sessions",
+            "Access to swimming pool, spa, and hot tub",
+            "Access to specialized fitness equipment (e.g., power racks, Olympic lifting area)",
+            "Monthly health and wellness consultation",
+            "Weekly recovery treatments (massage, cryotherapy, etc.)",
+            "Dedicated nutritionist and meal planning services",
+            "30% discount on all products and services",
+            "Private parking and priority access to events"
+        ]
+    }
+]
